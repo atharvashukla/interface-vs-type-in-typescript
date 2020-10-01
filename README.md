@@ -1,2 +1,4 @@
-# typescript-interface-vs-type
-Interfaces vs Types: Typescript
+# Interfaces vs Types in Typescript
+
+
+
