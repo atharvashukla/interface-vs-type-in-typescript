@@ -1,4 +1,4 @@
-# Interfaces vs Types in Typescript
+# Interface vs Type in Typescript
 
 
 
